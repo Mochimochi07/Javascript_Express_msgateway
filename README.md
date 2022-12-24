@@ -7,3 +7,7 @@ ever heard of portals? the gateways are the entire collection of registered rout
 The gateway server acts as a central point of entry for requests to the microservices,
 
 and it routes the requests to the appropriate microservice based on the configured routes.
+
+this thing only needs one package.json and you might need to install microgateway.
+
+
